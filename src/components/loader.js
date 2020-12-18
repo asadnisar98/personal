@@ -110,7 +110,7 @@ const Loader = ({ finishLoading }) => {
       <Helmet bodyAttributes={{ class: `hidden` }} />
 
       <div>
-         <LoaderCustom>Asad</LoaderCustom>
+         <LoaderCustom>Loading...</LoaderCustom>
       </div>
     </StyledLoader>
   );
